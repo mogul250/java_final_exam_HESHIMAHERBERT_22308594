@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MainApplication",
+            "request": "launch",
+            "mainClass": "com.bfpm.ui.MainApplication",
+            "projectName": "heshima_java_work",
+            "classPaths": [
+                "${workspaceFolder}/lib/*",
+                "${workspaceFolder}"
+            ]
+        }
+    ]
+}

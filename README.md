@@ -52,8 +52,8 @@ Basic Finance Platform Manager (BFPM) is a Java Swing-based desktop application 
    - Launch the application.
    - Enter your username and password.
    - Sample credentials:
-     - Admin: username `admin`, password `admin_hash`
-     - DataClerk: username `clerk1`, password `clerk_hash`
+     - Admin: username `admin`, password `admin123`
+     - DataClerk: username `clerk1`, password `clerk123`
 
 2. **Navigation**:
    - After login, the main window displays tabs based on your role.
@@ -81,3 +81,4 @@ Basic Finance Platform Manager (BFPM) is a Java Swing-based desktop application 
 ## Contributing/Notes
 
 This project is a work in progress. Refer to `TODO.md` for current development status and planned enhancements, including input validation, error handling, and logging. Contributions are welcome; please ensure code follows the existing package structure and includes appropriate documentation.
+

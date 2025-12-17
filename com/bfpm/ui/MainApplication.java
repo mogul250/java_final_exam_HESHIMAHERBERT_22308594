@@ -14,7 +14,7 @@ public class MainApplication extends JFrame {
 
     public MainApplication() {
         userDBManager = new UserDBManager();
-        setTitle("Basic Finance Platform Manager");
+        setTitle("Finance Platform Manager");
         setSize(1200, 800);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

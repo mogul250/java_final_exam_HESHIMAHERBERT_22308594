@@ -1,8 +1,8 @@
-# Basic Finance Platform Manager (BFPM)
+# Finance Platform Manager (FPM)
 
 ## Project Description
 
-Basic Finance Platform Manager (BFPM) is a Java Swing-based desktop application designed for managing basic finance operations in a small business or organization. It provides a user-friendly interface for recording transactions, generating financial reports, and managing users and accounts with role-based access control. The application uses MySQL for data storage and supports two user roles: Admin and DataClerk.
+Finance Platform Manager (FPM) is a Java Swing-based desktop application designed for managing finance operations in a small business or organization. It provides a user-friendly interface for recording transactions, generating financial reports, and managing users and accounts with role-based access control. The application uses MySQL for data storage and supports two user roles: Admin and DataClerk.
 
 ## Features
 

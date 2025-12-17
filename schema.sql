@@ -1,4 +1,4 @@
--- Basic Finance Platform Manager (BFPM) Database Schema
+-- Finance Platform Manager (FPM) Database Schema
 
 CREATE DATABASE IF NOT EXISTS bfpm_db;
 USE bfpm_db;
